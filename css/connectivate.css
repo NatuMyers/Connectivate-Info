@@ -1,0 +1,15 @@
+/*!
+ * Connectivate specific style
+ */
+ 
+ footer {
+	text-align: center;
+	color: #555;
+ }
+ 
+.bg-secondary {
+	background-color: #555
+}
+.bg-secondary h2 {
+	color: #fff
+}
